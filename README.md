@@ -1,2 +1,2 @@
 # TkinterMessanger
-This project aims to create a comprehensive direct messaging application that enables users to communicate with each other on the DSP platform.
+This project aims to create a comprehensive direct messaging application that enables students to communicate with each other on the DSP platform. The application integrates multiple aspects learned throughout the course, culminating in a fully functional software product. The project involves developing a module for sending and receiving direct messages, incorporating this module into a graphical user interface (GUI) using Tkinter, and ensuring local data storage for messages and recipients.
